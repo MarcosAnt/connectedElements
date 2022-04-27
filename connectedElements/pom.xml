@@ -1,0 +1,33 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>br.net.java</groupId>
+  <artifactId>elementosConectados</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>elementosConectados</name>
+  
+  <dependencies>
+  
+  	<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+	<dependency>
+	    <groupId>org.junit.jupiter</groupId>
+	    <artifactId>junit-jupiter-api</artifactId>
+	    <version>5.8.2</version>
+	    <scope>test</scope>
+	</dependency>
+	
+	<dependency>
+	    <groupId>org.junit.jupiter</groupId>
+	    <artifactId>junit-jupiter-params</artifactId>
+	    <version>5.8.2</version>
+	    <scope>test</scope>
+	</dependency>
+
+  	<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
+	<dependency>
+	    <groupId>org.apache.commons</groupId>
+	    <artifactId>commons-collections4</artifactId>
+	    <version>4.4</version>
+	</dependency>
+
+  </dependencies>
+</project>
