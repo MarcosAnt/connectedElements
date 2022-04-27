@@ -1,3 +1,10 @@
+/**
+ * @author MarcosAnt
+ * 27/04/2022
+ */
+
+
+
 package connectedElements;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -5,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import org.junit.jupiter.api.Test;
 
-public class TestConnector {
+public class TestNetwork {
 	
 	@Test
 	public void testConstructor() {
